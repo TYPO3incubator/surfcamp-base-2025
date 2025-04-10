@@ -14,6 +14,7 @@ The project is based on TYPO3 v13, using Composer. The configuration happens via
 ```sh
 ddev start
 ddev composer install
+ddev pull assets
 ```
 
 ## Credentials
